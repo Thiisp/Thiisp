@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1> Seja Muito Bem Vindo! </h1>
 
-<!--
-**Thiisp/Thiisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a> Nome: Thiago </a>
+<br>
+<a> Username: Thiisp </a>
+<br>
+<a> Idade: 18 </a>
+<br>
+<a> País: Brazil </a>
+<br>
+<a> Estado: São Paulo </a>
+<br>
+<a>Linguagem Favorita: Python </a>
+<br>
+<br>
+<br>
+<h1> Sobre mim </h1>
+<br>
+<a> Olá, meu nome é Thiago, tenho 18 anos e amo codar. Atualmente minha linguagem favorita é Python. Gosto de desenvolver Automações e Bots! </a>
