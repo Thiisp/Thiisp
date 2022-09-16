@@ -22,6 +22,6 @@
 <br>
 <h1> Redes Sociais </h1>
 <br>
-<a> Meu Site: thiisp.com </a>
+<a> Meu Site: https://www.thiisp.com/ </a>
 <br>
 <a> </a>
