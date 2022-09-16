@@ -17,3 +17,9 @@
 <h1> Sobre mim </h1>
 <br>
 <a> Olá, meu nome é Thiago, tenho 18 anos e amo codar. Atualmente minha linguagem favorita é Python. Gosto de desenvolver Automações e Bots! </a>
+<br>
+<br>
+<br>
+<h1> Redes Sociais </h1>
+<br>
+<a> Meu Site: https://www.thiisp.com/
