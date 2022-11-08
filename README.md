@@ -34,10 +34,6 @@
 <a>100 Curtidas - R$1,00</a>
 <br>
 <br>
-<a>Instagram de Vendas:</a>
-<a href="https://www.instagram.com/thii_followers"> @Thii_followers</a>
-<br>
-<br>
 <a>100% Confiavel</a>
 <br>
 <a>Entrega Imediata!</a>
@@ -45,3 +41,7 @@
 <a>Preço Beneficio</a>
 <br>
 <a>O MELHOR DO MERCADO!!!!</a>
+<br>
+<br>
+<a>Instagram de Vendas:</a>
+<a href="https://www.instagram.com/thii_followers"> @Thii_followers</a>
